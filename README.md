@@ -4,8 +4,6 @@
 
 保佑 Unity 專案開發順利。
 
-Wishes a good luck on developing your Unity projects with this lucky charm.
-
 ## 安裝方式與快速入門
 
 以下有幾種安裝 uKuaiKuai 的方法：
