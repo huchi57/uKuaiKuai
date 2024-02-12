@@ -1,0 +1,11 @@
+{
+  "name": "com.urbanfox.ukuaikuai",
+  "version": "1.0.0",
+  "displayName": "uKuaiKuai",
+  "description": "Wishes a good luck on developing your Unity projects with this lucky charm.\nThis is a non-profit personal project for enternainment purposes only. It is not in anyway affiliated with KUAI KUAI CO LTD.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Hu Chi",
+    "email": "huchi.hello@gmail.com"
+  }
+}
