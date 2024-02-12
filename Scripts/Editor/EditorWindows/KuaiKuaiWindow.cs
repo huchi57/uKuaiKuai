@@ -74,7 +74,7 @@ namespace UrbanFox.uKuaiKuai.Editor
             }
         }
 
-        [MenuItem("OwO/Windows/uKuaiKuai...")]
+        [MenuItem("OwO/Window/uKuaiKuai...")]
         private static void OpenWindow()
         {
             var window = GetWindow<KuaiKuaiWindow>();
